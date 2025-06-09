@@ -52,7 +52,8 @@ while True:
                 print(f"🔭 Your Text 🔭 : {text.capitalize()}")
             case 5:
                 print(f"↔️ Your Text ↔️ : {text.swapcase()}")
-                cont = input("\n🔁 Do you want to continue? (y/n): ").strip().lower()
+                cont = input(
+                    "\n🔁 Do you want to continue? (y/n): ").strip().lower()
             case _:
                 print("❌ Invalid selection! Please enter a number between 1 and 5 ❌")
 
@@ -69,3 +70,6 @@ while True:
         if cont != 'y':
             print("👋 Thank you for using Text Capitalizer. Goodbye!")
             break
+
+
+# Output Link : https://app.eraser.io/workspace/lUk2zr7D6SdyPceB6K7Q?origin=share

@@ -5,10 +5,13 @@ try:
     result = output-step
     result1 = step-output
     if step < output:
-        print(f" 🎉 👏 congratulations You have completed your Goal by {result} Steps 🎉 👏")
+        print(
+            f" 🎉 👏 congratulations You have completed your Goal by {result} Steps 🎉 👏")
     elif step == output:
         print("🎉 👏 congratulations You have completed your Goal Steps 🎉 👏")
     else:
         print(f" 💪 You need {result1} more steps to complete your goal ! 💪")
 except ValueError:
     print("🎯 Invalid Input 🎯 ")
+
+# output Link :- https://app.eraser.io/workspace/hnzPINYfUNGwGRlDKDBZ?origin=share
