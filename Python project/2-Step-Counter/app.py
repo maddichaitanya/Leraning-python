@@ -14,4 +14,4 @@ try:
 except ValueError:
     print("🎯 Invalid Input 🎯 ")
 
-# output Link :- https://app.eraser.io/workspace/hnzPINYfUNGwGRlDKDBZ?origin=share
+# output Link :- https://app.eraser.io/workspace/lUk2zr7D6SdyPceB6K7Q?origin=share
