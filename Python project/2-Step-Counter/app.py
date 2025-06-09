@@ -11,4 +11,4 @@ try:
     else:
         print(f" 💪 You need {result1} more steps to complete your goal ! 💪")
 except ValueError:
-    print("🎯 Wrong Input 🎯 ")
+    print("🎯 Invalid Input 🎯 ")
