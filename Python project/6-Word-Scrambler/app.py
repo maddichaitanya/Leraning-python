@@ -13,3 +13,6 @@ while True:
 # shuffle
     random.shuffle(letters)
     print(f" Shuffle Word are : {"".join(letters)}")
+
+
+# Output :- https://app.eraser.io/workspace/lUk2zr7D6SdyPceB6K7Q?origin=share&elements=kpUG5Ld0xMJxowNAlnGPKg
