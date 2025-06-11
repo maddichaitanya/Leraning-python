@@ -18,3 +18,5 @@ if select not in rec:
 else:
     print(
         f" Check it out : {random.choice(rec[select])}")
+
+# output :- https://app.eraser.io/workspace/lUk2zr7D6SdyPceB6K7Q?origin=share
