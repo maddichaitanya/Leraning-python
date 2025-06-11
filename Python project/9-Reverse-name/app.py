@@ -4,7 +4,7 @@ while True:
     name = input(" Enter Name : ")
     if not name:
         break
-    reverse_name = name[::-1]
+    reverse_name = name[::-1]  # name reverseing here
     print(f"{name} Reverseing the name : {reverse_name}")
     sel = input("\nDo you want to enter another name (y/n): ")
     if sel != "y":
