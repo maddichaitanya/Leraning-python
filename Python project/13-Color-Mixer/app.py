@@ -33,3 +33,5 @@ while True:
     if not input("\nDo you Want to Continue (y/n) : ").lower().startswith("y"):
         print("👋 Thank you for using COLOR MIXER app. Goodbye!")
         break
+
+# output:- https://app.eraser.io/workspace/lUk2zr7D6SdyPceB6K7Q?origin=share
