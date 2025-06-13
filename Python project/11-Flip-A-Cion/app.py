@@ -21,6 +21,7 @@ while True:
 
     exit = input("\n Do You Want to play again (y/n) : ")
     if exit.lower() != "y":
+        print("👋 Thank you for playing Coin Flip Game . Goodbye!")
         break
 
 # output :- https://app.eraser.io/workspace/lUk2zr7D6SdyPceB6K7Q?origin=share&elements=DuYG4dXb8ygK1xKG5lM1vg

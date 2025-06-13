@@ -19,6 +19,7 @@ while True:
 
     choice = input("\nDo you Want to continue y/n : ")
     if choice.lower() != "y":
+        print("👋 Thank you for using Random Recipe Generator . Goodbye!")
         break
 
 # output:- https://app.eraser.io/workspace/lUk2zr7D6SdyPceB6K7Q?origin=share

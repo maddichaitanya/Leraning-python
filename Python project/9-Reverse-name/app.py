@@ -8,6 +8,7 @@ while True:
     print(f"{name} Reverseing the name : {reverse_name}")
     sel = input("\nDo you want to enter another name (y/n): ")
     if sel != "y":
+        print("👋 Thank you for using CREVERSEING THE NAME . Goodbye!")
         break
 
 # output :- https://app.eraser.io/workspace/lUk2zr7D6SdyPceB6K7Q?origin=share
